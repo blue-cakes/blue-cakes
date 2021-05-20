@@ -2,7 +2,7 @@
 - 👀 I’m interested in science & technology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on replit.com or any website :)
-- 📫 How to reach me through email or telegram 
+- 📫 How to reach me: through email or telegram 
 - 📧 Email: sarahsadiq2018@outlook.com (home)
 
 <!---
